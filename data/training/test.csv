@@ -1,0 +1,11 @@
+id,text,source,chapter,veda,domain,branch,formula,language,keywords,annotated_by,confidence,notes
+SHLOKA_000029,एकाधिकेन पूर्वेण।,vedic_mathematics_sutras,,Unknown,Unknown,Unknown,,Sanskrit,,ai_heuristic,0.6,
+SHLOKA_000042,परिकलनसूत्रम्।।,vedic_mathematics_sutras,,Unknown,Grammar,Vyakarana,sutric_formula,Sanskrit,grammar|vyakarana,ai_heuristic,0.6,
+SHLOKA_000008,अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम्।,rigveda_mandala1,,Rigveda,Unknown,Unknown,,Sanskrit,rigveda,ai_heuristic,0.6,
+SHLOKA_000003,चन्द्रमा नक्षत्राणां पतिः शीतलप्रकाशः।,atharvaveda_sample,,Atharvaveda,Astronomy,Jyotisha,,Sanskrit,astronomy|atharvaveda|jyotisha,ai_heuristic,0.6,
+SHLOKA_000015,स इद्देवेषु गच्छति।।,rigveda_mandala1,,Rigveda,Unknown,Unknown,,Sanskrit,rigveda,ai_heuristic,0.6,
+SHLOKA_000048,न्यूनतासूत्रम्।।,vedic_mathematics_sutras,,Unknown,Grammar,Vyakarana,sutric_formula,Sanskrit,grammar|vyakarana,ai_heuristic,0.6,
+SHLOKA_000039,आनुरूप्येण।,vedic_mathematics_sutras,,Unknown,Unknown,Unknown,,Sanskrit,,ai_heuristic,0.6,
+SHLOKA_000024,समचतुरश्रस्य क्षेत्रफलं भुजवर्गः।।,sulbasutras_sample,,Unknown,Mathematics,Arithmetic,,Sanskrit,mathematics|arithmetic,ai_heuristic,0.6,
+SHLOKA_000032,गणितसूत्रम्।।,vedic_mathematics_sutras,,Unknown,Mathematics,Arithmetic,sutric_formula,Sanskrit,mathematics|arithmetic,ai_heuristic,0.6,
+SHLOKA_000043,पूरणापूरणाभ्याम्।,vedic_mathematics_sutras,,Unknown,Unknown,Unknown,,Sanskrit,,ai_heuristic,0.6,

@@ -1,0 +1,8 @@
+id,text,source,chapter,veda,domain,branch,formula,language,keywords,annotated_by,confidence,notes
+SHLOKA_000002,सूर्यो ग्रहाणां राजा।।,atharvaveda_sample,,Atharvaveda,Astronomy,Jyotisha,,Sanskrit,astronomy|atharvaveda|jyotisha,ai_heuristic,0.6,
+SHLOKA_000036,भागसूत्रम्।।,vedic_mathematics_sutras,,Unknown,Grammar,Vyakarana,sutric_formula,Sanskrit,grammar|vyakarana,ai_heuristic,0.6,
+SHLOKA_000019,इन्द्रं वाणीरनूषत।।,rigveda_mandala2,,Rigveda,Unknown,Unknown,,Sanskrit,rigveda,ai_heuristic,0.6,
+SHLOKA_000034,वर्गणासूत्रम्।।,vedic_mathematics_sutras,,Unknown,Mathematics,Arithmetic,sutric_formula,Sanskrit,mathematics|arithmetic,ai_heuristic,0.6,
+SHLOKA_000023,इन्द्रः सोमस्य पीतये।।,rigveda_mandala2,,Rigveda,Unknown,Unknown,,Sanskrit,rigveda,ai_heuristic,0.6,
+SHLOKA_000011,स देवाँ एह वक्षति।।,rigveda_mandala1,,Rigveda,Unknown,Unknown,,Sanskrit,rigveda,ai_heuristic,0.6,
+SHLOKA_000021,इन्द्रो वज्री हिरण्ययः।।,rigveda_mandala2,,Rigveda,Unknown,Unknown,,Sanskrit,rigveda,ai_heuristic,0.6,

@@ -1,0 +1,29 @@
+{
+  "task": "domain",
+  "version": "v20260608_095509",
+  "pretrained": "ai4bharat/indic-bert",
+  "num_labels": 12,
+  "classes": [
+    "Astronomy",
+    "Ayurveda",
+    "Cosmology",
+    "Ethics",
+    "Grammar",
+    "Linguistics",
+    "Mathematics",
+    "Medicine",
+    "Other",
+    "Philosophy",
+    "Ritual",
+    "Unknown"
+  ],
+  "epochs": 5,
+  "batch_size": 8,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "seed": 42,
+  "train_size": 31,
+  "val_size": 7,
+  "elapsed_sec": 79.1
+}

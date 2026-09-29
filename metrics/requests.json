@@ -1,0 +1,12 @@
+{
+  "total_requests": 1,
+  "successful": 1,
+  "failed": 0,
+  "avg_latency_ms": 10772.28,
+  "p95_latency_ms": 10772.28,
+  "cache_hit_rate": 0.0,
+  "cpu_percent": 16.5,
+  "memory_mb": 768.0,
+  "uptime_seconds": 1980.0,
+  "flushed_at": "2026-09-29T09:33:50Z"
+}

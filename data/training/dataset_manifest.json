@@ -1,0 +1,31 @@
+{
+  "total": 48,
+  "train": {
+    "count": 31,
+    "path": "D:\\vedic_shlokaphase4\\vedic_shloka_system\\data\\training\\train.csv"
+  },
+  "validation": {
+    "count": 7,
+    "path": "D:\\vedic_shlokaphase4\\vedic_shloka_system\\data\\training\\validation.csv"
+  },
+  "test": {
+    "count": 10,
+    "path": "D:\\vedic_shlokaphase4\\vedic_shloka_system\\data\\training\\test.csv"
+  },
+  "columns": [
+    "id",
+    "text",
+    "source",
+    "chapter",
+    "veda",
+    "domain",
+    "branch",
+    "formula",
+    "language",
+    "keywords",
+    "annotated_by",
+    "confidence",
+    "notes"
+  ],
+  "seed": 42
+}

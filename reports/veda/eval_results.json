@@ -1,0 +1,108 @@
+{
+  "task": "veda",
+  "test_size": 10,
+  "accuracy": 0.2,
+  "weighted_precision": 0.04,
+  "weighted_recall": 0.2,
+  "weighted_f1": 0.0667,
+  "macro_precision": 0.0667,
+  "macro_recall": 0.3333,
+  "macro_f1": 0.1111,
+  "mean_confidence": 0.4508,
+  "per_class": {
+    "Atharvaveda": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    },
+    "Other": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "Rigveda": {
+      "precision": 0.2,
+      "recall": 1.0,
+      "f1": 0.3333,
+      "support": 2
+    },
+    "Samaveda": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    },
+    "Unknown": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 7
+    },
+    "Yajurveda": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 0
+    }
+  },
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "class_names": [
+    "Atharvaveda",
+    "Other",
+    "Rigveda",
+    "Samaveda",
+    "Unknown",
+    "Yajurveda"
+  ]
+}

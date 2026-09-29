@@ -1,0 +1,2725 @@
+{
+  "nodes": {
+    "Shloka:SHLOKA_000017": {
+      "type": "Shloka",
+      "key": "SHLOKA_000017",
+      "text": "ज्योतिषां ज्योतिरजरं तदादित्यस्तपति।",
+      "source": "atharvaveda_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Veda:Atharvaveda": {
+      "type": "Veda",
+      "key": "Atharvaveda"
+    },
+    "Domain:Astronomy": {
+      "type": "Domain",
+      "key": "Astronomy"
+    },
+    "Branch:Jyotisha": {
+      "type": "Branch",
+      "key": "Jyotisha"
+    },
+    "Source:atharvaveda_sample": {
+      "type": "Source",
+      "key": "atharvaveda_sample"
+    },
+    "Keyword:astronomy": {
+      "type": "Keyword",
+      "key": "astronomy"
+    },
+    "Keyword:atharvaveda": {
+      "type": "Keyword",
+      "key": "atharvaveda"
+    },
+    "Keyword:jyotisha": {
+      "type": "Keyword",
+      "key": "jyotisha"
+    },
+    "Shloka:SHLOKA_000018": {
+      "type": "Shloka",
+      "key": "SHLOKA_000018",
+      "text": "सूर्यो ग्रहाणां राजा।।",
+      "source": "atharvaveda_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000019": {
+      "type": "Shloka",
+      "key": "SHLOKA_000019",
+      "text": "चन्द्रमा नक्षत्राणां पतिः शीतलप्रकाशः।",
+      "source": "atharvaveda_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000020": {
+      "type": "Shloka",
+      "key": "SHLOKA_000020",
+      "text": "रात्रौ प्रकाशयति।।",
+      "source": "atharvaveda_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Domain:Unknown": {
+      "type": "Domain",
+      "key": "Unknown"
+    },
+    "Branch:Unknown": {
+      "type": "Branch",
+      "key": "Unknown"
+    },
+    "Shloka:SHLOKA_000021": {
+      "type": "Shloka",
+      "key": "SHLOKA_000021",
+      "text": "ग्रहाः नवसंख्याकाः सूर्यमण्डलं परिक्रामन्ति।",
+      "source": "atharvaveda_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Domain:Mathematics": {
+      "type": "Domain",
+      "key": "Mathematics"
+    },
+    "Branch:Arithmetic": {
+      "type": "Branch",
+      "key": "Arithmetic"
+    },
+    "Keyword:mathematics": {
+      "type": "Keyword",
+      "key": "mathematics"
+    },
+    "Keyword:arithmetic": {
+      "type": "Keyword",
+      "key": "arithmetic"
+    },
+    "Shloka:SHLOKA_000022": {
+      "type": "Shloka",
+      "key": "SHLOKA_000022",
+      "text": "ज्योतिष्यम्।।",
+      "source": "atharvaveda_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000023": {
+      "type": "Shloka",
+      "key": "SHLOKA_000023",
+      "text": "नक्षत्राणि सप्तविंशतिः चन्द्रमण्डलं परिक्रामन्ति।।",
+      "source": "atharvaveda_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000001": {
+      "type": "Shloka",
+      "key": "SHLOKA_000001",
+      "text": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम्।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Veda:Rigveda": {
+      "type": "Veda",
+      "key": "Rigveda"
+    },
+    "Source:rigveda_mandala1": {
+      "type": "Source",
+      "key": "rigveda_mandala1"
+    },
+    "Keyword:rigveda": {
+      "type": "Keyword",
+      "key": "rigveda"
+    },
+    "Shloka:SHLOKA_000002": {
+      "type": "Shloka",
+      "key": "SHLOKA_000002",
+      "text": "होतारं रत्नधातमम्।।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000003": {
+      "type": "Shloka",
+      "key": "SHLOKA_000003",
+      "text": "अग्निः पूर्वेभिरृषिभिरीड्यो नूतनैरुत।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000004": {
+      "type": "Shloka",
+      "key": "SHLOKA_000004",
+      "text": "स देवाँ एह वक्षति।।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000005": {
+      "type": "Shloka",
+      "key": "SHLOKA_000005",
+      "text": "अग्निना रयिमश्नवत् पोषमेव दिवेदिवे।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000006": {
+      "type": "Shloka",
+      "key": "SHLOKA_000006",
+      "text": "यशसं वीरवत्तमम्।।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000007": {
+      "type": "Shloka",
+      "key": "SHLOKA_000007",
+      "text": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000008": {
+      "type": "Shloka",
+      "key": "SHLOKA_000008",
+      "text": "स इद्देवेषु गच्छति।।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000009": {
+      "type": "Shloka",
+      "key": "SHLOKA_000009",
+      "text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000010": {
+      "type": "Shloka",
+      "key": "SHLOKA_000010",
+      "text": "देवो देवेभिरागमत्।।",
+      "source": "rigveda_mandala1",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000011": {
+      "type": "Shloka",
+      "key": "SHLOKA_000011",
+      "text": "इन्द्रमिद् गाथिनो बृहदिन्द्रमर्केभिरर्किणः।",
+      "source": "rigveda_mandala2",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Source:rigveda_mandala2": {
+      "type": "Source",
+      "key": "rigveda_mandala2"
+    },
+    "Shloka:SHLOKA_000012": {
+      "type": "Shloka",
+      "key": "SHLOKA_000012",
+      "text": "इन्द्रं वाणीरनूषत।।",
+      "source": "rigveda_mandala2",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000013": {
+      "type": "Shloka",
+      "key": "SHLOKA_000013",
+      "text": "इन्द्र इद्धर्योः सचा समिश्ल आ वचोयुजा।",
+      "source": "rigveda_mandala2",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000014": {
+      "type": "Shloka",
+      "key": "SHLOKA_000014",
+      "text": "इन्द्रो वज्री हिरण्ययः।।",
+      "source": "rigveda_mandala2",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000015": {
+      "type": "Shloka",
+      "key": "SHLOKA_000015",
+      "text": "इन्द्र इद्वृत्रहा वसु दाता मघवा पुरुहूतः।",
+      "source": "rigveda_mandala2",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000016": {
+      "type": "Shloka",
+      "key": "SHLOKA_000016",
+      "text": "इन्द्रः सोमस्य पीतये।।",
+      "source": "rigveda_mandala2",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000044": {
+      "type": "Shloka",
+      "key": "SHLOKA_000044",
+      "text": "समचतुरश्रस्य क्षेत्रफलं भुजवर्गः।।",
+      "source": "sulbasutras_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Veda:Unknown": {
+      "type": "Veda",
+      "key": "Unknown"
+    },
+    "Source:sulbasutras_sample": {
+      "type": "Source",
+      "key": "sulbasutras_sample"
+    },
+    "Shloka:SHLOKA_000045": {
+      "type": "Shloka",
+      "key": "SHLOKA_000045",
+      "text": "आयतचतुरश्रस्य क्षेत्रफलं दीर्घभुजेन ह्रस्वभुजगुणितम्।।",
+      "source": "sulbasutras_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000046": {
+      "type": "Shloka",
+      "key": "SHLOKA_000046",
+      "text": "त्रिभुजस्य क्षेत्रफलं भूमिश्चशीर्षलम्बार्धगुणितम्।।",
+      "source": "sulbasutras_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000047": {
+      "type": "Shloka",
+      "key": "SHLOKA_000047",
+      "text": "वृत्तस्य क्षेत्रफलं व्यासार्धवर्गं पाईगुणितम्।।",
+      "source": "sulbasutras_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000048": {
+      "type": "Shloka",
+      "key": "SHLOKA_000048",
+      "text": "गोलस्य पृष्ठफलं व्यासवर्गं पाईगुणितम्।।",
+      "source": "sulbasutras_sample",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000024": {
+      "type": "Shloka",
+      "key": "SHLOKA_000024",
+      "text": "एकाधिकेन पूर्वेण।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Source:vedic_mathematics_sutras": {
+      "type": "Source",
+      "key": "vedic_mathematics_sutras"
+    },
+    "Shloka:SHLOKA_000025": {
+      "type": "Shloka",
+      "key": "SHLOKA_000025",
+      "text": "इति सूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Domain:Grammar": {
+      "type": "Domain",
+      "key": "Grammar"
+    },
+    "Branch:Vyakarana": {
+      "type": "Branch",
+      "key": "Vyakarana"
+    },
+    "Formula:sutric_formula": {
+      "type": "Formula",
+      "key": "sutric_formula"
+    },
+    "Keyword:grammar": {
+      "type": "Keyword",
+      "key": "grammar"
+    },
+    "Keyword:vyakarana": {
+      "type": "Keyword",
+      "key": "vyakarana"
+    },
+    "Shloka:SHLOKA_000026": {
+      "type": "Shloka",
+      "key": "SHLOKA_000026",
+      "text": "निखिलं नवतश्चरमं दशतः।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000027": {
+      "type": "Shloka",
+      "key": "SHLOKA_000027",
+      "text": "गणितसूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000028": {
+      "type": "Shloka",
+      "key": "SHLOKA_000028",
+      "text": "ऊर्ध्वतिर्यग्भ्याम्।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000029": {
+      "type": "Shloka",
+      "key": "SHLOKA_000029",
+      "text": "वर्गणासूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000030": {
+      "type": "Shloka",
+      "key": "SHLOKA_000030",
+      "text": "परावर्त्य योजयेत्।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000031": {
+      "type": "Shloka",
+      "key": "SHLOKA_000031",
+      "text": "भागसूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000032": {
+      "type": "Shloka",
+      "key": "SHLOKA_000032",
+      "text": "शून्यं साम्यसमुच्चये।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000033": {
+      "type": "Shloka",
+      "key": "SHLOKA_000033",
+      "text": "समीकरणसूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000034": {
+      "type": "Shloka",
+      "key": "SHLOKA_000034",
+      "text": "आनुरूप्येण।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000035": {
+      "type": "Shloka",
+      "key": "SHLOKA_000035",
+      "text": "अनुपातसूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000036": {
+      "type": "Shloka",
+      "key": "SHLOKA_000036",
+      "text": "संकलनव्यवकलनाभ्याम्।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000037": {
+      "type": "Shloka",
+      "key": "SHLOKA_000037",
+      "text": "परिकलनसूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000038": {
+      "type": "Shloka",
+      "key": "SHLOKA_000038",
+      "text": "पूरणापूरणाभ्याम्।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000039": {
+      "type": "Shloka",
+      "key": "SHLOKA_000039",
+      "text": "पूर्णसूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000040": {
+      "type": "Shloka",
+      "key": "SHLOKA_000040",
+      "text": "चलनकलनाभ्याम्।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000041": {
+      "type": "Shloka",
+      "key": "SHLOKA_000041",
+      "text": "गतिसूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000042": {
+      "type": "Shloka",
+      "key": "SHLOKA_000042",
+      "text": "यावदूनं तावदूनं।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    },
+    "Shloka:SHLOKA_000043": {
+      "type": "Shloka",
+      "key": "SHLOKA_000043",
+      "text": "न्यूनतासूत्रम्।।",
+      "source": "vedic_mathematics_sutras",
+      "chapter": "",
+      "language": "Sanskrit"
+    }
+  },
+  "edges": [
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000008",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000008",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000008",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000008",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000008",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000009",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000009",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000009",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000009",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000009",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000010",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000010",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000010",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000010",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000010",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000011",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000011",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000011",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000011",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000011",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000012",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000012",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000012",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000012",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000012",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000013",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000013",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000013",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000013",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000013",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000014",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000014",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000014",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000014",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000014",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000015",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000015",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000015",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000015",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000015",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000016",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000016",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000016",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000016",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000016",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000001",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000002",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000003",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000004",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000005",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000006",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "FROM_SOURCE",
+      "to": "Source:atharvaveda_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:astronomy"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:atharvaveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000007",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:jyotisha"
+    },
+    {
+      "from": "Shloka:SHLOKA_000011",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000012",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000013",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000014",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000015",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000016",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala1"
+    },
+    {
+      "from": "Shloka:SHLOKA_000017",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000018",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000019",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000020",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000021",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000022",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "BELONGS_TO",
+      "to": "Veda:Rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "FROM_SOURCE",
+      "to": "Source:rigveda_mandala2"
+    },
+    {
+      "from": "Shloka:SHLOKA_000023",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:rigveda"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000024",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000025",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000026",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000027",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "FROM_SOURCE",
+      "to": "Source:sulbasutras_sample"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000028",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000029",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000030",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000031",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000032",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000033",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:mathematics"
+    },
+    {
+      "from": "Shloka:SHLOKA_000034",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:arithmetic"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000035",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000036",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000037",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000038",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000039",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000040",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000041",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000042",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000043",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000044",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000045",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000046",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Unknown"
+    },
+    {
+      "from": "Shloka:SHLOKA_000047",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_DOMAIN",
+      "to": "Domain:Grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_BRANCH",
+      "to": "Branch:Vyakarana"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_FORMULA",
+      "to": "Formula:sutric_formula"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "FROM_SOURCE",
+      "to": "Source:vedic_mathematics_sutras"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:grammar"
+    },
+    {
+      "from": "Shloka:SHLOKA_000048",
+      "rel": "HAS_KEYWORD",
+      "to": "Keyword:vyakarana"
+    }
+  ]
+}
